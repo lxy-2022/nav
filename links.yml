@@ -3,7 +3,7 @@
 ## 网址导航页面配置
 ################
 # 网站标题
-title: GenEasy 网址导航
+title: CTGFW 网址导航
 # 网站 LOGO（可选）
 # logo: https://webstack.cc/assets/images/logo@2x.png
 # 网址导航页面关键字（可选）
@@ -11,21 +11,21 @@ keywords: 网址导航,网站导航,上网导航,网址大全,常用网站,推�
 # 网址导航页面描述（可选）
 description: 网址导航静态页面通用模板。
 # 网址导航页面 URL（可选）
-url: https://geneasy.github.io/nav/
+url: http://www.ctgfw.top/
 # Favicon（可选）
 shortcut_icon: https://avatars.githubusercontent.com/u/91052735?s=70&v=4
 # 社交分享图片（可选）
 og_img: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
 # 主页 URL
-home_url: https://geneasy.github.io/nav/
+home_url: http://www.ctgfw.top/
 # GitHub 链接（可选）
-github_url: https://github.com/geneasy/nav
+github_url: https://github.com/lxy-2022/nav
 # 网站 about 链接（可选）
-about_url: https://github.com/geneasy/nav
+about_url: https://github.com/lxy-2022/nav
 # 提交链接的 URL
-link_submission_url: https://github.com/geneasy/nav/issues
+link_submission_url: https://github.com/lxy-2022/nav/issues
 # 网站友情链接（可选）
-friendship_links_url: https://geneasy.github.io/links/
+# friendship_links_url: https://lxy.github.io/links/
 # Google Analytics Code（可选）
 # ga_tracking_code_id: G-ABCDEFG
 
@@ -42,137 +42,137 @@ navigation_urls:
 ## 网址导航数据
 ################
 categories:
-  - category: 新添加
+  - category: 默认
     icon: linecons-star
     links:
-      - title: DTO
+      - title: ChatGPT
         logo: https://dto.pipecraft.net/apple-touch-icon-144.png
-        url: https://dto.pipecraft.net/
-        description: 一个类似 Hacker News, Lobsters 的链接分享社区
-        tags: 程序员,社区
-      - title: BestXTools 社区
-        logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
-        url: https://discuss-cn.bestxtools.com/
-        description: BestXTools 社区是一个发现并分享有趣，有创意，免费、好用的工具的非商业性质的，独立的，开放的社区。
-        tags: 在线工具,周刊,社区
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-        tags: 程序员,生活,创意
-      - title: Pipecraft 社区
-        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss-cn.pipecraft.net/
-        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
-        tags: RSS,Atom,聚合新闻,内容订阅
+        url: https://chatgpt.ctgfw.top/
+        description: 免费 chatgpt 镜像
+        tags: ai
+  #     - title: BestXTools 社区
+  #       logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
+  #       url: https://discuss-cn.bestxtools.com/
+  #       description: BestXTools 社区是一个发现并分享有趣，有创意，免费、好用的工具的非商业性质的，独立的，开放的社区。
+  #       tags: 在线工具,周刊,社区
+  #     - title: 等你来加➕
+  #       logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+  #       url: https://github.com/geneasy/nav/issues
+  #       description: 快来提交你的网站吧
+  #       tags: 程序员,生活,创意
+  #     - title: Pipecraft 社区
+  #       logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
+  #       url: https://discuss-cn.pipecraft.net/
+  #       description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
+  #       tags: RSS,Atom,聚合新闻,内容订阅
 
-  - category: 推荐
-    hide_menu: true
-    icon: linecons-star
-    links:
-      - title: DTO
-        logo: https://dto.pipecraft.net/apple-touch-icon-144.png
-        url: https://dto.pipecraft.net/
-        description: 一个类似 Hacker News, Lobsters 的链接分享社区
-        tags: 程序员,社区
-      - title: BestXTools 社区
-        logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
-        url: https://discuss-cn.bestxtools.com/
-        description: BestXTools 社区是一个发现并分享有趣，有创意，免费、好用的工具的非商业性质的，独立的，开放的社区。
-        tags: 在线工具,周刊,社区
-      - title: Pipecraft 社区
-        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss-cn.pipecraft.net/
-        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
-        tags: RSS,Atom,聚合新闻,内容订阅
-      - title: 纵横网址导航
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">纵</text></svg>
-        url: https://zh.pipecraft.net/
-        description: 收集小而美的中文垂直社区，微社区，垂直网址导航的网址导航网站。
-        tags: 网址导航,中文垂直社区,微社区,垂直网址导航
+  # - category: 推荐
+  #   hide_menu: true
+  #   icon: linecons-star
+  #   links:
+  #     - title: DTO
+  #       logo: https://dto.pipecraft.net/apple-touch-icon-144.png
+  #       url: https://dto.pipecraft.net/
+  #       description: 一个类似 Hacker News, Lobsters 的链接分享社区
+  #       tags: 程序员,社区
+  #     - title: BestXTools 社区
+  #       logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
+  #       url: https://discuss-cn.bestxtools.com/
+  #       description: BestXTools 社区是一个发现并分享有趣，有创意，免费、好用的工具的非商业性质的，独立的，开放的社区。
+  #       tags: 在线工具,周刊,社区
+  #     - title: Pipecraft 社区
+  #       logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
+  #       url: https://discuss-cn.pipecraft.net/
+  #       description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
+  #       tags: RSS,Atom,聚合新闻,内容订阅
+  #     - title: 纵横网址导航
+  #       logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">纵</text></svg>
+  #       url: https://zh.pipecraft.net/
+  #       description: 收集小而美的中文垂直社区，微社区，垂直网址导航的网址导航网站。
+  #       tags: 网址导航,中文垂直社区,微社区,垂直网址导航
 
-  - category: 程序员博客
-    icon: linecons-doc
-    links:
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-        tags: 程序员,生活,创意
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
+  # - category: 程序员博客
+  #   icon: linecons-doc
+  #   links:
+  #     - title: 等你来加➕
+  #       logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+  #       url: https://github.com/geneasy/nav/issues
+  #       description: 快来提交你的网站吧
+  #     - title: 等你来加➕
+  #       logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+  #       url: https://github.com/geneasy/nav/issues
+  #       description: 快来提交你的网站吧
+  #       tags: 程序员,生活,创意
+  #     - title: 等你来加➕
+  #       logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+  #       url: https://github.com/geneasy/nav/issues
+  #       description: 快来提交你的网站吧
+  #     - title: 等你来加➕
+  #       logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+  #       url: https://github.com/geneasy/nav/issues
+  #       description: 快来提交你的网站吧
 
-  - category: 设计师博客
-    icon: linecons-doc
-    links:
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
+  # - category: 设计师博客
+  #   icon: linecons-doc
+  #   links:
+  #     - title: 等你来加➕
+  #       logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+  #       url: https://github.com/geneasy/nav/issues
+  #       description: 快来提交你的网站吧
+  #     - title: 等你来加➕
+  #       logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+  #       url: https://github.com/geneasy/nav/issues
+  #       description: 快来提交你的网站吧
+  #     - title: 等你来加➕
+  #       logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+  #       url: https://github.com/geneasy/nav/issues
+  #       description: 快来提交你的网站吧
+  #     - title: 等你来加➕
+  #       logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+  #       url: https://github.com/geneasy/nav/issues
+  #       description: 快来提交你的网站吧
 
-  - category: 个人博客
-    icon: linecons-doc
-    links:
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
+  # - category: 个人博客
+  #   icon: linecons-doc
+  #   links:
+  #     - title: 等你来加➕
+  #       logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+  #       url: https://github.com/geneasy/nav/issues
+  #       description: 快来提交你的网站吧
+  #     - title: 等你来加➕
+  #       logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+  #       url: https://github.com/geneasy/nav/issues
+  #       description: 快来提交你的网站吧
+  #     - title: 等你来加➕
+  #       logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+  #       url: https://github.com/geneasy/nav/issues
+  #       description: 快来提交你的网站吧
+  #     - title: 等你来加➕
+  #       logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+  #       url: https://github.com/geneasy/nav/issues
+  #       description: 快来提交你的网站吧
 
-  - category: 社区
-    icon: linecons-doc
-    links:
-      - title: DTO
-        logo: https://dto.pipecraft.net/apple-touch-icon-144.png
-        url: https://dto.pipecraft.net/
-        description: 一个类似 Hacker News, Lobsters 的链接分享社区
-        tags: 程序员,社区
-      - title: V2EX
-        logo: https://images.weserv.nl/?url=https://www.v2ex.com/static/img/v2ex@2x.png&w=60&h=60
-        url: https://www.v2ex.com/?r=Pipecraft
-        display_url: https://www.v2ex.com/
-        description: V2EX 是创意工作者们的社区。这里目前汇聚了超过 400,000 名主要来自互联网行业、游戏行业和媒体行业的创意工作者。V2EX 希望能够成为创意工作者们的生活和事业的一部分。
-        tags: 开发者,设计师
-      - title: Pipecraft 社区
-        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss-cn.pipecraft.net/
-        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
-        tags: RSS,Atom,聚合新闻,内容订阅
-      - title: BestXTools 社区
-        logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
-        url: https://discuss-cn.bestxtools.com/
-        description: BestXTools 社区是一个发现并分享有趣，有创意，免费、好用的工具的非商业性质的，独立的，开放的社区。
-        tags: 在线工具,周刊,社区
+  # - category: 社区
+  #   icon: linecons-doc
+  #   links:
+  #     - title: DTO
+  #       logo: https://dto.pipecraft.net/apple-touch-icon-144.png
+  #       url: https://dto.pipecraft.net/
+  #       description: 一个类似 Hacker News, Lobsters 的链接分享社区
+  #       tags: 程序员,社区
+  #     - title: V2EX
+  #       logo: https://images.weserv.nl/?url=https://www.v2ex.com/static/img/v2ex@2x.png&w=60&h=60
+  #       url: https://www.v2ex.com/?r=Pipecraft
+  #       display_url: https://www.v2ex.com/
+  #       description: V2EX 是创意工作者们的社区。这里目前汇聚了超过 400,000 名主要来自互联网行业、游戏行业和媒体行业的创意工作者。V2EX 希望能够成为创意工作者们的生活和事业的一部分。
+  #       tags: 开发者,设计师
+  #     - title: Pipecraft 社区
+  #       logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
+  #       url: https://discuss-cn.pipecraft.net/
+  #       description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
+  #       tags: RSS,Atom,聚合新闻,内容订阅
+  #     - title: BestXTools 社区
+  #       logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
+  #       url: https://discuss-cn.bestxtools.com/
+  #       description: BestXTools 社区是一个发现并分享有趣，有创意，免费、好用的工具的非商业性质的，独立的，开放的社区。
+  #       tags: 在线工具,周刊,社区
